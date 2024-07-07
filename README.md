@@ -54,6 +54,4 @@ sudo ./izing
 
 Tente atualizar o Conector WWebJS whatsapp.js
 
-## Consultoria particular
 
-Para quem gostaria de uma consultoria ou que eu faça instalação pode chamar no whatsapp 61 996878959 (será cobrado por isso)
